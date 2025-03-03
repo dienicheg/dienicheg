@@ -9,7 +9,7 @@ I am a Full Stack web developer with a passion for technology. I love putting my
   - Sockets
   - Microservices
 - 📚 I'm focused on improving my English.
-- ✔ Ask me about anything, I am happy to help<br>
+- ✔ Ask me about anything, I am happy to help.
 - Outside of tech, ✝️ I'm a Christian; 📖 I love reading books about psychology, philosophy, spirituality, and personal development; 🏃‍♂️ I enjoy exercising; and 🚲 I like going out with my friends.
 - 📫 Reach out to me at:
   - <a href="https://www.linkedin.com/in/nicolas-chazarreta01/">LinkedIn</a>
