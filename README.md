@@ -30,9 +30,9 @@ I am a Full Stack web developer with a passion for technology. I love putting my
   <img src= "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <!-- NODEJS -->
   <img src= "https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"> <!-- NEST -->
   <img src= "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <!-- MONGODB -->
-  <img src= "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> <!-- POSTGRESQL --> <img src= "https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"> <!-- PRISMA -->
+  <img src= "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> <!-- POSTGRESQL --> 
+  <img src= "https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"> <!-- PRISMA -->
   <img src= "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"> <!-- EXPRESS -->
-  
   <img src= "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> <!-- NEXT -->
   <img src= "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"> <!-- TAILWIND -->
 </span>
