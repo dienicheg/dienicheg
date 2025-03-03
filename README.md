@@ -11,7 +11,9 @@ I am a Full Stack web developer with a passion for technology. I love putting my
 - 📚 I'm focused on improving my English.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside of tech, ✝️ I'm a Christian; 📖 I love reading books about psychology, philosophy, spirituality, and personal development; 🏃‍♂️ I enjoy exercising; and 🚲 I like going out with my friends.
-- 📫 Reach out to me at: <a href="dienicheg.13@gmail.com">dienicheg.13@gmail.com</a>
+- 📫 Reach out to me at:
+  - <a href="https://www.linkedin.com/in/nicolas-chazarreta01/">LinkedIn</a>
+  - <a href="dienicheg.13@gmail.com">dienicheg.13@gmail.com</a>
 
 ## My Skills Include
 
