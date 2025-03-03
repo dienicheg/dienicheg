@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="Awesome Matrix Code" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" />
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlyMzAzZTRqdjFnbTN1eWt2bWxjZHI4anlrbmI0amdoc2RrMXFubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rlg5rDvQp2Mvqp5wqq/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmMzMWlkdXlrNGZheXdkaXFzMWJ2cmRneWduZ3BwbmZoeW9hZHZ1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9TFBxN300KpCUI6sBD/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a Full Stack web developer with a passion for technology. I love putting my knowledge and skills to the test. My current favorite technologies are PostgreSQL, Prisma, NestJS, TaiwlindCSS, React and Next.js, although I have also developed applications with other technologies such as: Angular, Python, Django, Bootstrap, Framer Motion, etc.
 - 🌱 I’m currently learning about...
@@ -27,12 +27,10 @@ I am a Full Stack web developer with a passion for technology. I love putting my
 <span>
   <img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> <!-- GITHUB -->
   <img src= "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <!-- DOCKER -->
-  
   <img src= "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <!-- NODEJS -->
   <img src= "https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"> <!-- NEST -->
   <img src= "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <!-- MONGODB -->
-  <img src= "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> <!-- POSTGRESQL -->
-  <img src= "https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"> <!-- PRISMA -->
+  <img src= "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> <!-- POSTGRESQL --> <img src= "https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"> <!-- PRISMA -->
   <img src= "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"> <!-- EXPRESS -->
   
   <img src= "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> <!-- NEXT -->
@@ -41,6 +39,9 @@ I am a Full Stack web developer with a passion for technology. I love putting my
 
 ## Check out my Social Media
 
+<a href="https://www.linkedin.com/in/nicolas-chazarreta01/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 <a href="https://www.youtube.com/@dienicheg/videos">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
