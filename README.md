@@ -6,7 +6,7 @@
 
 I am a Full Stack web developer with a passion for technology. I love putting my knowledge and skills to the test. My current favorite technologies are PostgreSQL, Prisma, NestJS, TaiwlindCSS, React and Next.js, although I have also developed applications with other technologies such as: Angular, Python, Django, Bootstrap, Framer Motion, etc.
 - 🌱 I’m currently learning about...
-  - Sockets
+  - Cloud Services
   - Microservices
 - 📚 I'm focused on improving my English.
 - ✔ Ask me about anything, I am happy to help.
